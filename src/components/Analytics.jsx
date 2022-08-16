@@ -12,7 +12,7 @@ const Analytics = () => {
           <p>
             Analytics dashboard displays all customer interaction data in real time, detecting pain points and factors that cause customer dissatisfaction. This helps businesses flag any issues and take immediate action.
           </p>
-          <button className='bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3'>Get Started</button>
+          <button className='bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 hover:bg-[#00df9a] hover:text-black ease-in-out duration-500'>Get Started</button>
         </div>
       </div>
     </div>
