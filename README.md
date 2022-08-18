@@ -36,13 +36,16 @@
     Financials Webpage
 </h1>
 
+[🔗**sales-lading-page.netlify.app**][deploy-url]
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 <div align="center">
 
 <p style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="github" title="#github" src="./src/assets/demo.gif" > 
+  <img alt="sale" title="#sale" src="./src/assets/demo.gif" > 
+  <img alt="sale" title="#sale" src="./src/assets/demo1.gif" > 
 
 </p>
 </div>
@@ -50,7 +53,7 @@
 Welcome to the _GitHub repository_ of my **Financials Webpage** project! Here you can find information about the project's development, such as which technologies were used, how to install and run the project, usage and more.
 
 This site provides a Financials Webpage demo and was built with the Mobile First methodology through TailwindCss and has great responsiveness. Users will find the following features: **About the company, Sign up to a newsletter and Select a 
-payment plan**. 
+payment plan**. If you're confused about where you are, try this [**this link**][deploy-url] to the deployed project instead 😄.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -203,3 +206,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 [TailwindCSS-url]: https://tailwindcss.com
+[deploy-url]: https://sales-lading-page.netlify.app
