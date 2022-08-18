@@ -52,7 +52,7 @@
 
 Welcome to the _GitHub repository_ of my **Financials Webpage** project! Here you can find information about the project's development, such as which technologies were used, how to install and run the project, usage and more.
 
-This site provides a Financials Webpage demo and was built with the Mobile First methodology through TailwindCss and has great responsiveness. Users will find the following features: **About the company, Sign up to a newsletter and Select a 
+This site provides a Financials Webpage demo and was built with the Mobile First concept through TailwindCss and has great responsiveness. Users will find the following features: **About the company, Sign up to a newsletter and Select a 
 payment plan**. If you're confused about where you are, try this [**this link**][deploy-url] to the deployed project instead 😄.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
